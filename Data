@@ -16,6 +16,32 @@
       "status": "Approved",
       "feePaid": 1040.00,
       "submittedOn": "2025-09-30"
+    },
+   {
+  "clients": [
+    {
+      "clientId": "C1001",
+      "fullName": "Rajesh Kumar",
+      "fileNumber": "V-2025-11223",
+      "status": "In Progress",
+      "feePaid": 855.00,
+      "submittedOn": "2025-11-10"
+    },
+    {
+      "clientId": "C1002",
+      "fullName": "Anita Desai",
+      "fileNumber": "S-2025-44556",
+      "status": "Approved",
+      "feePaid": 1040.00,
+      "submittedOn": "2025-10-28"
+    },
+    {
+      "clientId": "C1003",
+      "fullName": "Vikram Singh",
+      "fileNumber": "W-2025-77889",
+      "status": "Returned",
+      "feePaid": 0,
+      "submittedOn": null
     }
   ]
 }
