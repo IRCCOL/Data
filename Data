@@ -1,23 +1,12 @@
 {
-  "agentName": "HollyHook",
-  "clients": [
-    {
-      "clientId": "C1001",
-      "fullName": "Aarav Sharma",
-      "fileNumber": "V-2025-98765",
-      "status": "In Progress",
-      "feePaid": 855.00,
-      "submittedOn": "2025-10-12"
-    },
-    {
-      "clientId": "C1002",
-      "fullName": "Priya Patel",
-      "fileNumber": "S-2025-12345",
-      "status": "Approved",
-      "feePaid": 1040.00,
-      "submittedOn": "2025-09-30"
-    },
-   {
+  "agent": {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@b2bimmigration.ca",
+    "licenseNumber": "R512345",
+    "company": "Global Pathways Immigration Inc.",
+    "phone": "+1 (416) 555-0198",
+    "address": "123 Yonge Street, Suite 500, Toronto, ON M5C 1W5"
+  },
   "clients": [
     {
       "clientId": "C1001",
