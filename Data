@@ -21,7 +21,7 @@
     {"clientId":"C1011","fullName":"Oksana Petrova","fileNumber":"S-2025-77889","status":"Approved","feePaid":1040.00,"submittedOn":"2025-10-10","country":"Ukraine"},
     {"clientId":"C1012","fullName":"Ahmed Hassan","fileNumber":"W-2025-11223","status":"In Progress","feePaid":1040.00,"submittedOn":"2025-11-01","country":"Bangladesh"},
     {"clientId":"C1013","fullName":"Sofia Rahman","fileNumber":"V-2025-22334","status":"Draft","feePaid":0,"submittedOn":null,"country":"Indonesia"},
-    {"clientId":"C1014","fullName":"Maninder Singh","fileNumber":"S-2025-33445","status":"In Progress waiting for ITA","feePaid":1040.00,"submittedOn":"2025-09-15","country":"India"},
+    {"clientId":"C1014","fullName":"Maninder Singh","fileNumber":"S-2025-33445","status":"Waiting for ITA","feePaid":1040.00,"submittedOn":"2025-09-15","country":"India"},
     {"clientId":"C1015","fullName":"Yasmin Farah","fileNumber":"W-2025-44556","status":"Returned","feePaid":0,"submittedOn":null,"country":"Somalia"},
     {"clientId":"C1016","fullName":"Hassan Ali","fileNumber":"V-2025-55667","status":"In Progress","feePaid":855.00,"submittedOn":"2025-11-14","country":"Iraq"},
     {"clientId":"C1017","fullName":"Lina Mahmoud","fileNumber":"S-2025-66778","status":"Approved","feePaid":1040.00,"submittedOn":"2025-09-25","country":"Syria"},
